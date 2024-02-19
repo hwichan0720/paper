@@ -1,12 +1,11 @@
 ---
 name: paper templates
-about: 読んだ論文の内容を整理する
+about: Summarize paper
 
 ---
-## 投稿年/会議
-## 著者/所属機関
-## 概要
-## 実験設定
-## 結果
-## 考察
-## 参考
+## Paper
+## Author
+## Introduction
+## Methodrogy
+## Results
+## Discussion
