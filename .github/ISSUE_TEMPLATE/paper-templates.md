@@ -4,8 +4,7 @@ about: Summarize paper
 
 ---
 ## Paper
-## Author
-## Introduction
+## What is this?
 ## Methodrogy
 ## Results
 ## Discussion
