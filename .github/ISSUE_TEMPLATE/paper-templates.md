@@ -5,6 +5,6 @@ about: Summarize paper
 ---
 ## Paper
 ## What is this?
-## Methodrogy
-## Results
+## Methodology
+## Experiments
 ## Discussion
